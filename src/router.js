@@ -6,6 +6,7 @@ import CardModal from './views/CardModal.vue';
 Vue.use(Router);
 
 export default new Router({
+  base: '/task-management-app/',
   mode: 'history',
   routes: [
     {
