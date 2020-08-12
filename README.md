@@ -17,9 +17,12 @@ Trelloを真似たタスク管理アプリを作成しました。
 - 移動 
   - 使用したライブラリ
     - vuedraggable
-- 削除 
   
 こちらが[実際のアプリケーション](https://hozumigouki.github.io/task-management-app/)のリンクです
+  
+[
+![taskmanagementapp-demo](https://user-images.githubusercontent.com/69531558/90001828-e0bad080-dccc-11ea-954a-102ff1486620.gif)
+](url)
   
 # taskmanagementapp
 
