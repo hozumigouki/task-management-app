@@ -1,3 +1,29 @@
+# Trelloを真似たタスク管理アプリ  
+
+Trelloを真似たタスク管理アプリを作成しました。
+
+## 機能
+- ボード名の変更  
+- リストの生成、削除  
+- リスト名の変更  
+- カードの生成、削除  
+- カード名の変更  
+- カードに説明のテキストの追加、アクティビティログの追加  
+- カードに期限の設定  
+  - 使用したライブラリ  
+    - vue-moment  
+    - v-calendar
+- カードにラベルの追加、変更  
+- 移動 
+  - 使用したライブラリ
+    - vuedraggable
+  
+こちらが[実際のアプリケーション](https://hozumigouki.github.io/task-management-app/)のリンクです
+  
+[
+![taskmanagementapp-demo](https://user-images.githubusercontent.com/69531558/90001828-e0bad080-dccc-11ea-954a-102ff1486620.gif)
+](url)
+  
 # taskmanagementapp
 
 ## Project setup
