@@ -9,7 +9,6 @@
         </div>
       </div>
       <h2 class="card-title">{{ getCard(cardHash).name }}</h2>
-      {{ getCard(cardHash).order }}
       <div>
         <CardLimit v-bind:card-hash='cardHash' />
         <div v-if="getCard(cardHash).log.length > 0" class="card-log">
