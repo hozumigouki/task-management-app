@@ -1,6 +1,7 @@
 # Trelloを真似たタスク管理アプリ  
 
-Trelloを真似たタスク管理アプリを作成しました。
+Trelloを真似たタスク管理アプリを作成しました。  
+データの保存はvuexをlocalStorageに保存できる[vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)を使用しました。
 
 ## 機能
 - ボード名の変更  
